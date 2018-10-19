@@ -1,9 +1,7 @@
-# École d'apprentissage Profond IVDAO-MILA Automne 2018
-
-Bienvenue au cours d'apprentissage profond IVADO-MILA!  Vous trouverez sur ce répertoire github toutes les informations utiles ainsi que toutes les ressources disponibles pour le cours d'automne 2019.
+# École d'apprentissage Profond IVADO-Mila Automne 2018
+Bienvenue au cours d'apprentissage profond IVADO-Mila! Vous trouverez sur ce répertoire github toutes les informations utiles ainsi que toutes les ressources disponibles pour le cours d'automne 2019.
 
 ## Structure du cours
-
 Vous trouverez dans ce répertoire les trois tutoriaux qui seront présentés au cours de la semaine dans le répertoire `tutoriaux`.
 
 Chaque tutoriel comprend une version `à compléter` avec du code template pour vous guider au travers des tutoriaux. Les versions complétées seront mises publiques pendant chaque tutoriel. 
