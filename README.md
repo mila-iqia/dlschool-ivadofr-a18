@@ -15,6 +15,6 @@ Chaque tutoriel comprend une version `à compléter` avec du code template pour 
 ## Informations pratiques
 Nous utiliserons principalement des [jupyter notebooks](http://jupyter.org/) pour tous les calculs scientifiques que nous effectuerons. Afin de faciliter l'utilisation des notebooks, nous recommandons l'utilisation de [Colab](https://colab.research.google.com/github/mila-udem/ecole_dl_mila_ivado_2018_10/) en utilisant le lien vers les tutoriaux contenus dans ce répertoire. Ceci permet d'assurer un environnement de calcul pré-initialisé et offre accès à un GPU/TPU directement sur le cloud. L'utilisation de Colab nécessite une connection internet.
 
-Voici le lien vers les colabs contenu dans ce répertoire:
+Utilisez ce lien vers les notebooks Colab:
 
 * https://colab.research.google.com/github/mila-udem/ecole_dl_mila_ivado_2018_10/
