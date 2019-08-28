@@ -17,4 +17,4 @@ Nous utiliserons principalement des [jupyter notebooks](http://jupyter.org/) pou
 
 Utilisez ce lien vers les notebooks Colab:
 
-* https://colab.research.google.com/github/mila-iqia/ecole_dl_mila_ivado/
+* https://colab.research.google.com/github/mila-iqia/dlschool-ivadofr-a18/
